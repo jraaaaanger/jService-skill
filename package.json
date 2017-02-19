@@ -1,0 +1,20 @@
+{
+  "name": "jservice-skill",
+  "version": "0.0.1",
+  "description": "A skill for Amazon Alexa using the jService API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "jService",
+    "trivia"
+  ],
+  "author": "Jimmy Ranger",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}
